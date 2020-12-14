@@ -1,16 +1,22 @@
-### Hi there 👋
+[![N|Solid](https://wallpapercave.com/wp/wp2936933.jpg)](https://nodesource.com/products/nsolid) 
+# Sridhar Janardhan
+### About Me 🙋‍♂️
+###### Aspiring techie, have been involved in programming since 5 years and have an hands-on in Internet of things. Currently working as a software engineer for Dailyhunt deployed by hughes systique corporation. 😇
 
-<!--
-**iSridharJanardhan/iSridharJanardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills 👨‍💻️
+##### Web-Development
+###### HTML, CSS, Javascript, Typescript, ReactJS, Angular, NodeJS, ExpressJS, Redux, GraphQL, MySQL and MongoDB. 
 
-Here are some ideas to get you started:
+##### Deep Learning
+###### Numpy, Pandas, OpenCV, Pytoroch and Deep learning Algorithm. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact📱
+Email - isridharjanardhan@gmail.com
+linkedIn - https://www.linkedin.com/in/isridharjanardhan/️
+
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+
+  - Type some Markdown on the left
+  - See HTML in the right
+  - Magic
